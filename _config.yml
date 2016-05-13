@@ -1,0 +1,28 @@
+name: choco-latero
+favicon: null
+layout_spectrum: 0.017477795016020536
+typography_spectrum: 0.175072516547516
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.4103021053597331
+  lightness: 0.6413991271983832
+  saturation: 0.3374326890334487
+  rhythmicContrast: 0.8158413388300687
+purpose: []
